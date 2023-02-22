@@ -5,6 +5,8 @@ VisualStudioVersion = 25.0.1704.5
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FloridaUccSearch", "FloridaUccSearch\FloridaUccSearch.csproj", "{013D70B2-4197-42AF-BA9E-288C4A0BDF43}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlSearchExample", "FlSearchExample\FlSearchExample.csproj", "{B462D443-85EB-4F1D-83F4-285DB528780B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{013D70B2-4197-42AF-BA9E-288C4A0BDF43}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{013D70B2-4197-42AF-BA9E-288C4A0BDF43}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{013D70B2-4197-42AF-BA9E-288C4A0BDF43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B462D443-85EB-4F1D-83F4-285DB528780B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B462D443-85EB-4F1D-83F4-285DB528780B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B462D443-85EB-4F1D-83F4-285DB528780B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B462D443-85EB-4F1D-83F4-285DB528780B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
